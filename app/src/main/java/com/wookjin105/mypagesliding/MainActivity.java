@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     /* 애니메이션의 리스너를 정의하는 파트 */
     public class SlidingPageAnimationListener implements Animation.AnimationListener{
 
